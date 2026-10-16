@@ -108,3 +108,17 @@ Paper Table 2 headline numbers (Huginn-0125):
 
 Full grid of `K_a × λ` sweeps and multi-seed nondet runs used in the
 paper appendices is documented in [`docs/REPRODUCE.md`](docs/REPRODUCE.md).
+
+## Citation
+
+```bibtex
+@misc{yu2026loopcdloopwisecontrastivedecoding,
+      title={LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models}, 
+      author={Byeongho Yu and Junhyuk So and Eunhyeok Park},
+      year={2026},
+      eprint={2609.24196},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.24196}, 
+}
+```
