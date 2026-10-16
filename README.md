@@ -21,6 +21,10 @@ Official implementation of "[LoopCD: Loop-wise Contrastive Decoding for Improvin
   <img src="assets/fig1_overview.png" alt="Overview of LoopCD" width="640">
 </p>
 
+## News
+
+- **[2026-10-16]** We cleaned up the repository history to fix the driver script names. Please re-clone.
+
 ## Quick start
 
 ```bash
